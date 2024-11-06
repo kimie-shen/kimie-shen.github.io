@@ -1,18 +1,18 @@
 title: Kimie Shen
-author:
-  name: GitHub User
-  email: your-email@domain.com
-description:
+#author:
+  #name: GitHub User
+  #email: your-email@domain.com
+#description:
   Self-taught geekology...
 baseurl: ""
 url: <me>.github.io
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+#description: >
+  #Write an awesome description for your new site here. You can edit this line
+  i#n _config.yml. It will appear in your document head meta (for Google search
+  #results) and in your feed.xml site description.
 
 # Build settings
 
@@ -64,10 +64,10 @@ minima:
     - { platform: youtube,        user_url: "https://www.youtube.com/kimieshen" }
     - { platform: github,         user_url: "https://github.com/jekyll/kimie-shen" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=lPZuQUsAAAAJ&hl" }
+  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=lPZuQUsAAAAJ&hl" }
     - { platform: instagram,      user_url: "https://www.instagram.com/kimie_shen" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kimie-shen-22b09319a" }
+ #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kimie-shen-22b09319a" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
