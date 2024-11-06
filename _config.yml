@@ -2,6 +2,14 @@ title: Your awesome title
 author:
   name: GitHub User
   email: your-email@domain.com
+description:
+  Self-taught geekology...
+baseurl: ""
+url: <me>.github.io
+twitter_username: <mine>
+github_username:  <mine>
+
+theme: minima
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
