@@ -16,7 +16,7 @@ order: 4
   <br>
   
   <label for="message">Message:</label>
-  <textarea name="message" id="message" required></textarea>
+  <textarea name="message" id="message" required rows="5" cols="30"></textarea>
   
   <button type="submit">Send Message</button>
 </form>
