@@ -61,7 +61,7 @@ minima:
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: youtube,        user_url: "https://www.youtube.com/kimieshen" }
-    - { platform: github,         user_url: "https://github.com/jekyll/kimie-shen" }
+    - { platform: github,         user_url: "https://github.com/kimie-shen" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=lPZuQUsAAAAJ&hl" }
     - { platform: instagram,      user_url: "https://www.instagram.com/kimie_shen" }
