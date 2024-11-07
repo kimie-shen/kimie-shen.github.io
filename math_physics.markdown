@@ -25,7 +25,7 @@ MAT355 - Differential Geometry <br>
 MAT365 - Topology <br>
 MAT378 - Game Theory <br>
 
-<b>Physics Coursework</b>
+<b>Physics Coursework</b> <br>
 PHY301 - Thermal Physics <br>
 PHY304 - Advanced Electromagnetism <br>
 PHY305 - Quantum Mechanics <br>
