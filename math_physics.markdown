@@ -5,9 +5,9 @@ permalink: /math_physics/
 ---
 
 <b>Undergraduate Research Projects</b> <br>
-[Quantum billiards on polyhedral surfaces](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf) (senior thesis advised by Professor Biao Lian) <br>
-[Spatial Modeling of Savanna Forest Fires](https://kimie-shen.github.io/assets/pdfs/savanna_forest_fires.pdf)  (independent work advised by Professors Simon Levin and Denis Patterson)  <br>
-[PC3 Cell Dynamics in Self-Generated Hypoxia](https://kimie-shen.github.io/assets/pdfs/Fall_JP.pdf) (junior paper advised by Professor Robert Austin) <br>
+[Quantum billiards on polyhedral surfaces](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf) (senior thesis advised by Biao Lian) <br>
+[Spatial Modeling of Savanna Forest Fires](https://kimie-shen.github.io/assets/pdfs/savanna_forest_fires.pdf)  (independent work advised by Simon Levin and Denis Patterson)  <br>
+[PC3 Cell Dynamics in Self-Generated Hypoxia](https://kimie-shen.github.io/assets/pdfs/Fall_JP.pdf) (junior paper advised by Robert Austin) <br>
 
 <b>Mathematics Coursework (Princeton)</b> <br>
 MAT216 - Multivariable Analysis and Linear Algebra I <br>
