@@ -20,7 +20,7 @@ and Richardson Auditorium in Princeton. She has also performed in masterclasses 
 esteemed pedagogues such as John Perry, Sasha Starcevich, Jan Jiracek von Arnim, Grigory 
 Gruzman, and the late Nelita True, among others.
 
-Kimberly is currently pursuing a master's degree in Piano Performance with 
+Kimberly is currently pursuing a master's degree in piano performance with 
 [Boris Slutsky](https://peabody.jhu.edu/faculty/boris-slutsky/) at the Peabody Conservatory. Her former mentors include 
 [Francine Kay](https://www.francinekay.com/), [Alexander Braginsky](https://cla.umn.edu/about/directory/profile/bragi001), and Jean Krinke. 
 Also an avid scientist, she graduated <i>summa cum laude</i> from Princeton University with a 
