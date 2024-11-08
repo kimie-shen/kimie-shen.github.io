@@ -6,8 +6,9 @@ permalink: /math_physics/
 
 <b>Projects</b> <br>
 <ul>
-<li> [Quantum billiards on polyhedral surfaces](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf) (research with Professor Biao Lian) </li>
-<li> [Spatial Modeling of Savanna Forest Fires](https://kimie-shen.github.io/assets/pdfs/savanna_forest_fires-5.pdf) (reserach with Professors Simon Levin and Dennis Patterson) </li>
+<li> [Quantum billiards on polyhedral surfaces](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf) (undergraudate senior thesis advised by Professor [Biao Lian](https://phy.princeton.edu/people/biao-lian)) </li>
+<li> [Spatial Modeling of Savanna Forest Fires](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf)  (undergraduate independent work advised by Professors [Simon Levin ](https://slevin.princeton.edu/) and [Dennis Patterson](https://denispatterson.com/)) </li>
+<li> [Dynamics of PC3 Cancer Cells in Self-Generated Hypoxia](https://kimie-shen.github.io/assets/pdfs/SHEN_KIMBERLY_THESIS.pdf) (undergraduate junior paper advised by Professor [Robert Austin](https://austingroup.princeton.edu/)</li>
 </ul>
 
 <b>Mathematics Coursework (Princeton)</b> <br>
