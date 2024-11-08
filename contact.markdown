@@ -8,13 +8,13 @@ order: 4
 
 <form action="https://formkeep.com/f/c359db21ec3d"  method="POST">
   <label for="name">Name:</label><br>
-  <input type="text" name="name" id="name" required size="40">
+  <input type="text" name="name" id="name" required size="35">
   
   <br>
   <br>
   
   <label for="email">Email:</label><br>
-  <input type="email" name="email" id="email" required size="40">
+  <input type="email" name="email" id="email" required size="35">
   
   <br>
   <br> 
