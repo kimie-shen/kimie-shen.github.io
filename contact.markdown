@@ -7,15 +7,15 @@ order: 4
 
 
 <form action="https://formkeep.com/f/c359db21ec3d"  method="POST">
-  <label for="name">Name:</label>
+  <label for="name">Name:</label><br>
   <input type="text" name="name" id="name" required>
   
-  <label for="email">Email:</label>
+  <label for="email">Email:</label><br>
   <input type="email" name="email" id="email" required>
   
   <br>
   
-  <label for="message">Message:</label>
+  <label for="message">Message:</label><br>
   <textarea name="message" id="message" required rows="5" cols="30"></textarea>
   
   <button type="submit">Send Message</button>
