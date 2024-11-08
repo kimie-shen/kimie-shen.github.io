@@ -28,3 +28,5 @@ bachelor’s degree in physics and certificates in applied mathematics and music
 During her undergraduate studies, she conducted prizewinning research in condensed matter 
 physics, biological physics, and theoretical ecology. 
 
+<button onclick="location.href='https://kimie-shen.github.io/assets/pdfs/rep_list.pdf'" type="button">
+         Repertoire List</button>
