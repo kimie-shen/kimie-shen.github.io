@@ -29,6 +29,10 @@ defaults:
       path: "assets/images"
     values: 
       image: true
+  - scope:
+      path: "assets/pdfs"
+    values: 
+      pdf: true
     
 
 # Theme-specific settings
