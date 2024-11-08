@@ -24,6 +24,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values: 
+      image: true
+    
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
