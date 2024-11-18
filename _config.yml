@@ -75,7 +75,7 @@ minima:
     - { platform: github,         user_url: "https://github.com/kimie-shen" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=lPZuQUsAAAAJ&hl" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/kimie_shen" }
+  #  - { platform: instagram,      user_url: "https://www.instagram.com/kimie_shen" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kimie-shen-22b09319a" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
